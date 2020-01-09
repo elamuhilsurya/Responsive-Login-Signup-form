@@ -8,7 +8,7 @@ header{
     position: relative;
     display: flex;
 }
-body{
+.bod{
     background: url("images/w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
